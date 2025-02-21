@@ -29,7 +29,7 @@ addon_info = {
 	# Author(s)
 	"addon_author": "Gerardo Késsler <gera.ar@yahoo.com>",
 	# URL for the add-on documentation support
-	"addon_url": "https://github.com/GerardKessler/YoutubeChannelManager",
+	"addon_url": "https://github.com/gera-ar/YoutubeChannelManager",
 	# Documentation file name
 	"addon_docFileName": "readme.html",
 	# Minimum NVDA version supported (e.g. "2018.3.0", minor version is optional)
